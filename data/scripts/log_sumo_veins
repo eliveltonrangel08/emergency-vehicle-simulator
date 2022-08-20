@@ -1,0 +1,2395 @@
+Logging to /tmp/sumo-launchd.log
+Listening on port 9999
+Connection from 127.0.0.1 on port 58040
+Handling connection from 127.0.0.1 on port 58040
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-szfo4ac9
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 59519
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59519, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59519 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59519 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628816305</start>
+	<end>1628816391</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58040
+Connection from 127.0.0.1 on port 58052
+Handling connection from 127.0.0.1 on port 58052
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-z5b1eh41
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 41837
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41837, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41837 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41837 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-6</exit-code>
+	<start>1628816440</start>
+	<end>1628817807</end>
+	<status>Exited with error code -6</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+X Fatal error.
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58052
+Connection from 127.0.0.1 on port 58218
+Handling connection from 127.0.0.1 on port 58218
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-wcji3o_g
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 57727
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 57727, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 57727 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 57727 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628817820</start>
+	<end>1628817867</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58218
+Connection from 127.0.0.1 on port 58228
+Handling connection from 127.0.0.1 on port 58228
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-lce6r26x
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 37047
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 37047, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 37047 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 37047 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628817878</start>
+	<end>1628817955</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58228
+Connection from 127.0.0.1 on port 58242
+Handling connection from 127.0.0.1 on port 58242
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-obvmhqyd
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 56255
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56255, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56255 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56255 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628817969</start>
+	<end>1628818135</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58242
+Connection from 127.0.0.1 on port 58268
+Handling connection from 127.0.0.1 on port 58268
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-lao26zj7
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 51071
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51071, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51071 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51071 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818153</start>
+	<end>1628818285</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58268
+Connection from 127.0.0.1 on port 58282
+Handling connection from 127.0.0.1 on port 58282
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-5bqk4vdb
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 56649
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56649, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56649 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56649 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818297</start>
+	<end>1628818409</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58282
+Connection from 127.0.0.1 on port 58300
+Handling connection from 127.0.0.1 on port 58300
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-aoaguut7
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 58867
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58867, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58867 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58867 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818425</start>
+	<end>1628818511</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58300
+Connection from 127.0.0.1 on port 58310
+Handling connection from 127.0.0.1 on port 58310
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-h8qq0vj_
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 56383
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56383, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56383 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 56383 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818520</start>
+	<end>1628818554</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58310
+Connection from 127.0.0.1 on port 58320
+Handling connection from 127.0.0.1 on port 58320
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-j6fyvsh5
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 59653
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59653, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59653 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59653 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818565</start>
+	<end>1628818746</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+X Error: code 2 major 130 minor 3: BadValue (integer parameter out of range for operation).
+X Error: code 2 major 130 minor 3: BadValue (integer parameter out of range for operation).
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58320
+Connection from 127.0.0.1 on port 58382
+Handling connection from 127.0.0.1 on port 58382
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-92mdlbwv
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 54047
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 54047, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 54047 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 54047 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818764</start>
+	<end>1628818911</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58382
+Connection from 127.0.0.1 on port 58406
+Handling connection from 127.0.0.1 on port 58406
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-33sejvsr
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 51359
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51359, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51359 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51359 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818920</start>
+	<end>1628818947</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58406
+Connection from 127.0.0.1 on port 58414
+Handling connection from 127.0.0.1 on port 58414
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-nzoop66w
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 52837
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52837, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52837 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52837 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818958</start>
+	<end>1628818982</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58414
+Connection from 127.0.0.1 on port 58422
+Handling connection from 127.0.0.1 on port 58422
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-kv1d4i2c
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 55767
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 55767, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 55767 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 55767 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628818995</start>
+	<end>1628819094</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58422
+Connection from 127.0.0.1 on port 58434
+Handling connection from 127.0.0.1 on port 58434
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-rfjdacid
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 49117
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49117, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49117 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49117 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819103</start>
+	<end>1628819130</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58434
+Connection from 127.0.0.1 on port 58446
+Handling connection from 127.0.0.1 on port 58446
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-ei_af_mn
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 58721
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58721, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58721 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58721 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819184</start>
+	<end>1628819237</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58446
+Connection from 127.0.0.1 on port 58456
+Handling connection from 127.0.0.1 on port 58456
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-e50883c9
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 49187
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49187, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49187 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49187 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819296</start>
+	<end>1628819397</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58456
+Connection from 127.0.0.1 on port 58466
+Handling connection from 127.0.0.1 on port 58466
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-psopq2vz
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 51731
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51731, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51731 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 51731 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819442</start>
+	<end>1628819456</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58466
+Connection from 127.0.0.1 on port 58476
+Handling connection from 127.0.0.1 on port 58476
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-k1_qwusj
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 48701
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 48701, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 48701 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 48701 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819559</start>
+	<end>1628819572</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58476
+Connection from 127.0.0.1 on port 58484
+Handling connection from 127.0.0.1 on port 58484
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-e5frihbx
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 43595
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43595, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43595 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43595 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819589</start>
+	<end>1628819614</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58484
+Connection from 127.0.0.1 on port 58502
+Handling connection from 127.0.0.1 on port 58502
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-xv2itn0u
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 48209
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 48209, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 48209 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 48209 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819668</start>
+	<end>1628819703</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58502
+Connection from 127.0.0.1 on port 58512
+Handling connection from 127.0.0.1 on port 58512
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-ny3pfeft
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 47063
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 47063, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 47063 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 47063 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819717</start>
+	<end>1628819739</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58512
+Connection from 127.0.0.1 on port 58524
+Handling connection from 127.0.0.1 on port 58524
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-bl95y879
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 55541
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 55541, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 55541 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 55541 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628819740</start>
+	<end>1628820162</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58524
+Connection from 127.0.0.1 on port 58660
+Handling connection from 127.0.0.1 on port 58660
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-tw9rua93
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 42273
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 42273, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 42273 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 42273 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628820179</start>
+	<end>1628820208</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58660
+Connection from 127.0.0.1 on port 58666
+Handling connection from 127.0.0.1 on port 58666
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-dnos_e3d
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 40775
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 40775, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 40775 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 40775 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+Connection from 127.0.0.1 on port 59002
+Handling connection from 127.0.0.1 on port 59002
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-xpv4j50y
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 34963
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34963, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34963 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34963 (try 2)
+Releasing lock on port
+Starting proxy mode
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628820209</start>
+	<end>1628821614</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 58666
+Done with proxy mode
+Done with proxy mode, killing SUMO
+Connection from 127.0.0.1 on port 59076
+Handling connection from 127.0.0.1 on port 59076
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-b2btwijv
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 36367
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 36367, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 36367 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 36367 (try 2)
+Releasing lock on port
+SIGTERM
+Starting proxy mode
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628821613</start>
+	<end>1628821782</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 59002
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628821781</start>
+	<end>1628821801</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 59076
+Connection from 127.0.0.1 on port 59086
+Handling connection from 127.0.0.1 on port 59086
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-bwi3fadg
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 39703
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 39703, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 39703 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 39703 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628821804</start>
+	<end>1628861419</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 59086
+Connection from 127.0.0.1 on port 60126
+Handling connection from 127.0.0.1 on port 60126
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-39pwio6z
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 50731
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 50731, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 50731 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 50731 (try 2)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 50731 (try 3)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628862790</start>
+	<end>1628863146</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60126
+Connection from 127.0.0.1 on port 60238
+Handling connection from 127.0.0.1 on port 60238
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-n5br1g79
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 52853
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52853, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52853 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52853 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628863507</start>
+	<end>1628863836</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60238
+Connection from 127.0.0.1 on port 60264
+Handling connection from 127.0.0.1 on port 60264
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-0a4fw3yt
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 41575
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41575, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41575 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41575 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628863861</start>
+	<end>1628864104</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60264
+Connection from 127.0.0.1 on port 60474
+Handling connection from 127.0.0.1 on port 60474
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-nwy9apre
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 49799
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49799, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49799 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 49799 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628865472</start>
+	<end>1628865534</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60474
+Connection from 127.0.0.1 on port 60490
+Handling connection from 127.0.0.1 on port 60490
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-1wntnm96
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 58419
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58419, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58419 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 58419 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628865562</start>
+	<end>1628865625</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60490
+Connection from 127.0.0.1 on port 60514
+Handling connection from 127.0.0.1 on port 60514
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-ox2ev0vx
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 50251
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 50251, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 50251 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 50251 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628865679</start>
+	<end>1628865736</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60514
+Connection from 127.0.0.1 on port 60538
+Handling connection from 127.0.0.1 on port 60538
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-xjs2bony
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 52455
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52455, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52455 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 52455 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628865881</start>
+	<end>1628866012</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60538
+Connection from 127.0.0.1 on port 60554
+Handling connection from 127.0.0.1 on port 60554
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-9esi8spg
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 38735
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38735, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38735 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38735 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628866056</start>
+	<end>1628866179</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60554
+Connection from 127.0.0.1 on port 60580
+Handling connection from 127.0.0.1 on port 60580
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-w5wyn9g9
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 40349
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 40349, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 40349 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 40349 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628866280</start>
+	<end>1628868417</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60580
+Connection from 127.0.0.1 on port 60836
+Handling connection from 127.0.0.1 on port 60836
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-t6ciy780
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 34887
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34887, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34887 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34887 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628868649</start>
+	<end>1628868668</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60836
+Connection from 127.0.0.1 on port 60864
+Handling connection from 127.0.0.1 on port 60864
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-xbhlqynt
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 37545
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 37545, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 37545 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 37545 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-6</exit-code>
+	<start>1628868879</start>
+	<end>1628868939</end>
+	<status>Exited with error code -6</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+X Fatal error.
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60864
+Connection from 127.0.0.1 on port 60870
+Handling connection from 127.0.0.1 on port 60870
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-jdzf1ohw
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 59101
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59101, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59101 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 59101 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+Connection from 127.0.0.1 on port 60882
+Handling connection from 127.0.0.1 on port 60882
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-5_4am4iw
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 34251
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34251, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34251 (try 1)
+Error ([Errno 111] Connection refused)
+SIGTERM
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 34251 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628868992</start>
+	<end>1628869019</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60870
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628869019</start>
+	<end>1628869060</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60882
+Connection from 127.0.0.1 on port 60890
+Handling connection from 127.0.0.1 on port 60890
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-6tpm6fcq
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 47733
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 47733, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 47733 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 47733 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628869076</start>
+	<end>1628869128</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60890
+Connection from 127.0.0.1 on port 60904
+Handling connection from 127.0.0.1 on port 60904
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-t0of_u0a
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 43219
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43219, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43219 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43219 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628869154</start>
+	<end>1628869205</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60904
+Connection from 127.0.0.1 on port 60914
+Handling connection from 127.0.0.1 on port 60914
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-elk9ml2y
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 38645
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38645, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38645 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38645 (try 2)
+Releasing lock on port
+Starting proxy mode
+Connection from 127.0.0.1 on port 60940
+Handling connection from 127.0.0.1 on port 60940
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-4z8kgngs
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 43791
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43791, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43791 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 43791 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628869439</start>
+	<end>1628869676</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60940
+Connection from 127.0.0.1 on port 60998
+Handling connection from 127.0.0.1 on port 60998
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-jzl96wl9
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 33191
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 33191, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 33191 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 33191 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628869721</start>
+	<end>1628869862</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60998
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628869224</start>
+	<end>1628869936</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 60914
+Connection from 127.0.0.1 on port 32788
+Handling connection from 127.0.0.1 on port 32788
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-6i_tno68
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 38521
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38521, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38521 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 38521 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628869968</start>
+	<end>1628870616</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 32788
+Connection from 127.0.0.1 on port 32844
+Handling connection from 127.0.0.1 on port 32844
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-uv19tpr_
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 45537
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45537, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45537 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45537 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628870635</start>
+	<end>1628870666</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 32844
+Connection from 127.0.0.1 on port 32850
+Handling connection from 127.0.0.1 on port 32850
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-ma3brlix
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 45003
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45003, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45003 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45003 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628870697</start>
+	<end>1628870713</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 32850
+Connection from 127.0.0.1 on port 32856
+Handling connection from 127.0.0.1 on port 32856
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-eh7ads45
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 45559
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45559, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45559 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 45559 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628870746</start>
+	<end>1628870970</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 32856
+Connection from 127.0.0.1 on port 32886
+Handling connection from 127.0.0.1 on port 32886
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-ff1k20ck
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 41131
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41131, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41131 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 41131 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628870991</start>
+	<end>1628871107</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 32886
+Connection from 127.0.0.1 on port 32896
+Handling connection from 127.0.0.1 on port 32896
+Got TraCI message of length 2
+Got TraCI command of length 1
+Got TraCI command 0x0
+Got CMD_GETVERSION
+Got TraCI message of length 309
+Got TraCI command of length 304
+Got TraCI command 0x75
+Got CMD_FILE_SEND for "b'sumo-launchd.launch.xml'"
+Got CMD_FILE_SEND with data "b'<launch>\n  <copy file="default.net.xml"/>\n  <copy file="default.rou.xml"/>\n  <copy file="default.poly.xml"/>\n  <copy file="default.sumo.cfg" type="config"/>\n  <basedir path="/root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/"/>\n  <seed value="0"/>\n</launch>\n'"
+Creating temporary directory...
+Temporary dir is /tmp/sumo-launchd-tmp-kz_ran4z
+Base dir is /root/omnetpp-5.6.2/samples/ev_sbesc/ev_sbesc/examples/ev_sbesc/
+Seed is 0
+Finding free port number...
+Claiming lock on port
+...found port 46515
+Starting SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 46515, seed 0
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 46515 (try 1)
+Error ([Errno 111] Connection refused)
+Connecting to SUMO (/root/sumo/bin/sumo-gui -c default.sumo.cfg) on port 46515 (try 2)
+Releasing lock on port
+Starting proxy mode
+Done with proxy mode
+Done with proxy mode, killing SUMO
+SIGTERM
+Done running SUMO
+Cleaning up
+Result: "<?xml version="1.0"?>
+<status>
+	<exit-code>-15</exit-code>
+	<start>1628871129</start>
+	<end>1628871378</end>
+	<status>Exited with error code -15</status>
+	<stdout><![CDATA[Loading configuration ... done.
+]]></stdout>
+	<stderr><![CDATA[libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: Version 4 or later of flush extension not found
+libGL error: failed to load driver: i915
+libGL error: failed to open /dev/dri/card0: No such file or directory
+libGL error: failed to load driver: iris
+]]></stderr>
+</status>
+"
+Closing connection from 127.0.0.1 on port 32896

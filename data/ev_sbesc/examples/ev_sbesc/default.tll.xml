@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2021-08-13 12:56:25 by Eclipse SUMO netedit Version 1.9.2
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="/home/elivelton/UFBA/simulator/docker-veins-v4/data/ev_sbesc/ev_sbesc/examples/ev_sbesc/default.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/home/elivelton/UFBA/simulator/docker-veins-v4/data/ev_sbesc/ev_sbesc/examples/ev_sbesc/default.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <additional-files value="/home/elivelton/UFBA/simulator/docker-veins-v4/data/ev_sbesc/ev_sbesc/examples/ev_sbesc/default.poly.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <tlLogic id="1040204906" type="static" programID="0" offset="0">
+        <phase duration="27" state="rGrr"/>
+        <phase duration="3" state="ryrr"/>
+        <phase duration="27" state="rrGG"/>
+        <phase duration="3" state="rryy"/>
+        <phase duration="27" state="Grrr"/>
+        <phase duration="3" state="yrrr"/>
+    </tlLogic>
+</additional>
